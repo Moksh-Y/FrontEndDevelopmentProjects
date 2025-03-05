@@ -1,0 +1,46 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+.name_input {
+    margin-left: 50px;
+}
+
+.announcement {
+    background-color: firebrick;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Campus_Life_mainDiv {
+    text-align: center;
+    border: 2px groove black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 80%;
+    height: 40%;
+}
+
+.Acheivements_mainDiv {
+    text-align: center;
+    border: 2px groove black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.Whats_new_mainDiv {
+    text-align: center;
+    border: 2px groove black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
