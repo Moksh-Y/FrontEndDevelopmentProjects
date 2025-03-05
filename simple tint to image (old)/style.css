@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(38, 38, 38);
+    color: white;
+}
+
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+#filter_color {
+    background-color: rgb(38, 38, 38);
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+}
+
+.button-1 {
+    font-size: 20px !important;
+    color: black;
+    border: 1px solid black;
+}
